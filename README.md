@@ -30,7 +30,7 @@ Key Features
    amount, publication type, and status.
 -> Interface to view, edit, or delete existing research entries.
 
-Publication and Awards:
+4)Publication and Awards:
 ----------------------
 
 ->Sections to add and manage publications and awards, highlighting the faculty's achievements and contributions to their 
