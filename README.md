@@ -40,6 +40,7 @@ Key Features
 ------------------
 
 -> Publicly accessible faculty profile pages where students and other users can view updated information.
+
 -> Dynamic content rendering based on the data entered through the CMS.
 
 
@@ -49,12 +50,14 @@ Front-End:
 -----------
 
 ->HTML, CSS, and JavaScript for creating a responsive and user-friendly interface.
+
 ->Bootstrap framework for consistent styling and layout.
 
 Back-End:
 --------
 
 ->PHP for server-side scripting to handle form submissions, user authentication, and data processing.
+
 ->MySQL for database management, storing user data, research details, and other relevant information.
 
 Database Schema:
@@ -70,36 +73,42 @@ User Authentication Module:
 ---------------------------
 
 ->Develop a secure login system with registration, login, and logout functionalities.
+
 ->Implement password hashing for secure storage of user credentials.
 
 Dashboard Interface:
 --------------------
 
 ->Create a dashboard layout with navigation options.
+
 ->Develop forms for each section (Profile, Research, Publications, Awards).
 
 Profile Management:
 -------------------
 
 ->Implement functionality to update personal information, upload profile images, and link resumes.
+
 ->Ensure data validation and sanitization to prevent security vulnerabilities.
 
 Research and Publications Management:
 -------------------------------------
 
 ->Create forms to add, view, edit, and delete research projects and publications.
+
 ->Implement backend logic to handle database operations for these forms.
 
 Content Display:
 ----------------
 
 ->Develop public-facing profile pages that dynamically display updated content.
+
 ->Ensure proper formatting and styling for a professional appearance.
 
 Testing and Deployment:
 -----------------------
 
 Thoroughly test all functionalities for bugs and usability issues.
+
 Deploy the application on a web server and ensure it is accessible to the intended users.
 
 
@@ -109,15 +118,18 @@ Ease of Use:
 ------------
 
 ->Allows faculty members to update their profiles without needing technical skills.
+
 ->Streamlines the process of managing web content, saving time and effort.
 
 Dynamic and Real-Time Updates:
 ------------------------------
 
 ->Ensures that the faculty profiles are always up-to-date with the latest information.
+
 ->Provides a professional online presence for faculty members.
 
 Security:
 ---------
 ->Secure authentication system to protect user data.
+
 ->Regular updates and maintenance to address potential security issues.
